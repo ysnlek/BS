@@ -1,6 +1,4 @@
 {
-  "versionCode": 20000000,
-  "versionName": "999999991.1",
-  "apkUrl": "https://example.com/your_app_v2.apk",
-  "releaseNotes": "Bug fixes and performance improvements."
+    "latest_version": "2.0.0",
+    "update_url": "https://example.com/path-to-latest-apk"
 }
