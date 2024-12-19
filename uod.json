@@ -1,7 +1,7 @@
 {
   "version": "102",
   "url": "https://example.com/your-latest-apk",
-  "showCancel": false,
+  "showCancel": true,
   "title": "App Out for farahi",
   "message": "A new version of the app is available. Please update to continue."
 }
